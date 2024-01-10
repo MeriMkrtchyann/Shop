@@ -1,0 +1,21 @@
+.nav {
+    background-color: #EBD96B;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .nav a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: px;
+  }
+  
+  .nav a:hover {
+    color: black;
+  }
+  

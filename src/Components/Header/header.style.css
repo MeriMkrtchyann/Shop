@@ -1,0 +1,46 @@
+.Header {
+    margin : 0px;
+    padding : 0px;
+}
+
+.Conteyner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    background: #EBD96B;
+}
+
+.Logo img {
+    padding-left: 30px;
+    width: 120px;
+}
+
+.ShoppingCartIcon button img {
+    margin-right:30px;
+    width: 50px; 
+    height: 50px; 
+}
+
+.ShoppingCartIcon button  {
+    border: none;
+    background: #EBD96B;
+}
+
+.quantity{
+    margin:0px;
+    padding:0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginOutButton button{
+    background : #EBD96B;
+}
+
+.quantity button{
+    font-size:20px;
+}
+
